@@ -1,7 +1,6 @@
-Group 1 Project
 
-1.Import Project Dekhoda folder to eclipse
-2.Right click Project Dekhoda, then go to properties
+1.Import Project directory to eclipse
+2.Right click Project, then go to properties
 3.Remove the unbounded JRE (JRE System Library with (unbounded))
 4.Add current JRE System Library that you are using. Press Add Library and install new one.
 5.Press Ok button.
